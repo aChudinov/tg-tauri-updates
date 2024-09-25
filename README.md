@@ -1,1 +1,1 @@
-# tg-electron-updates
+# tg-tauri-updates
